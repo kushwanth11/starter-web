@@ -14,4 +14,4 @@ User-agent: *
 #I am learning rebase
 #I am learning AWS
 #I am learning some language
-
+#Adding some notes about GIT Stash
