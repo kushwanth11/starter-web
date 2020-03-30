@@ -1,1 +1,2 @@
 adding new file in git project
+Important notes on stash
